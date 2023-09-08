@@ -1,3 +1,5 @@
+<img src="https://github.com/mahyarmohammadimatin/8-Puzzle-Problem-different-search-Algorithms/blob/main/46.png">
+
 ## Repository Contents:
 
 ### Problem Components:
